@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @NaveenDeveloper07
 - 👀 I’m interested in Web development, Machine learning & AI , Mobile development
-- 🌱 I’m currently pursuing my 3rd year B.Tech IT on Coimbatore Institute of Technology
+- 🌱 I’m currently pursuing my Final year B.Tech IT on Coimbatore Institute of Technology
 - 📫 How to reach me ... Linkedin : https://www.linkedin.com/in/naveen-kumar-1122841a3/ 
 
 <!---
